@@ -1,0 +1,14 @@
+{
+  "name": "api_project",
+  "version": "1.0.0",
+  "description": "This project contains apis to test reverse proxy functionality of HAproxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasad Ingole",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
