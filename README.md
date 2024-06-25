@@ -1,11 +1,9 @@
 # Introduction
 
-This repository contains haproxy configuration scripts along with example. They are primarily intented to introduce the concepts. The configuration scripts were written based on available documentation.
-
-The repository is divided amongst directory containing all necessary projects needed to demonstrate usage.
+This repository contains haproxy configuration scripts along with example.The repository is divided into various haproxy usage. Each directory contains the necessary projects needed to demonstrate haproxy usage.
 
 ## Tech Stack
 
-- Express JS
+- Express JS - used to create rest apis / webapp used in example
 - Node Js
 - Docker
